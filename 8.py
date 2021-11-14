@@ -18,7 +18,7 @@ class Game_Accumulator:
     _line: int = 0
     _jump: str = "jmp"
     _accumulate: str = "acc"
-    _init: str = "acc"
+    _init: str = "nop"
     
     
     @property
